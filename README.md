@@ -7,4 +7,4 @@ Every week, [@zineanteoh](https://github.com/zineanteoh) and I give ourselves an
 
 1. [[GitHub]](https://github.com/kohrachel/w1-pet-rock) | Pet the Rock. Test your free will.
 2. [[GitHub]](https://github.com/kohrachel/w2-3d-about-me) | Desk messiness is directly correlated with genius.
-3. [[GitHub]](https://github.com/kohrachel/cursor-not-allowed) | No cursors allowed. 
+3. [[GitHub]](https://github.com/kohrachel/w3-cursor-not-allowed-v0) | No cursors allowed. 
