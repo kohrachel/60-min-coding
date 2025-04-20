@@ -13,7 +13,7 @@ Inspired by [Andrej Karpathy on X](https://archive.ph/yNSTA):
 
 ![image](https://github.com/user-attachments/assets/cdc61490-d3d9-414c-a877-daff50685078)
 
-# Project List (so far): 
+# 📽️ Project List (so far): 
 
 1. [[GitHub]](https://github.com/kohrachel/w1-pet-rock) | 🪨 Pet the Rock. Test your free will.
 2. [[GitHub]](https://github.com/kohrachel/w2-3d-about-me) | ✍🏻 Desk messiness is directly correlated with genius.
