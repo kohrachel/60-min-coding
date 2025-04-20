@@ -15,7 +15,7 @@ Inspired by [Andrej Karpathy on X](https://archive.ph/yNSTA):
 
 # 📽️ Project List (so far): 
 
-1. [[GitHub]](https://github.com/kohrachel/w1-pet-rock) | 🪨 Pet the Rock. Test your free will.
-2. [[GitHub]](https://github.com/kohrachel/w2-3d-about-me) | ✍🏻 Desk messiness is directly correlated with genius.
-3. [[GitHub]](https://github.com/kohrachel/w3-cursor-not-allowed-v0) | ❌ No cursors allowed. 
-4. [[GitHub]](https://github.com/kohrachel/w4-mini-wikipedia) | 🌐 Wikipedia is cool. Rachel-pedia is cooler.
+1. 🪨 Pet the Rock. Test your free will. | [[Mar. 29, 2025]](https://github.com/kohrachel/w1-pet-rock)
+2. ✍🏻 Desk messiness is directly correlated with genius. | [[Apr. 5, 2025]](https://github.com/kohrachel/w2-3d-about-me)
+3. ❌ No cursors allowed here. MUAHAHAHAHA.  | [[Apr. 12, 2025]](https://github.com/kohrachel/w3-cursor-not-allowed-v0)
+4. 🌐 Wikipedia is cool. Rachel-pedia is cooler. | [[Apr. 19, 2025]](https://github.com/kohrachel/w4-mini-wikipedia)
