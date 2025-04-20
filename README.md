@@ -9,7 +9,7 @@ Here are the version 0s of the coolest stuff we dreamed up.
 
 # 🍃 Vibe Coding
 
-Inspired by [Andrej Karpathy](https://archive.ph/yNSTA)
+Inspired by [Andrej Karpathy on X](https://archive.ph/yNSTA):
 
 ![image](https://github.com/user-attachments/assets/cdc61490-d3d9-414c-a877-daff50685078)
 
@@ -19,4 +19,3 @@ Inspired by [Andrej Karpathy](https://archive.ph/yNSTA)
 2. [[GitHub]](https://github.com/kohrachel/w2-3d-about-me) | ✍🏻 Desk messiness is directly correlated with genius.
 3. [[GitHub]](https://github.com/kohrachel/w3-cursor-not-allowed-v0) | ❌ No cursors allowed. 
 4. [[GitHub]](https://github.com/kohrachel/w4-mini-wikipedia) | 🌐 Wikipedia is cool. Rachel-pedia is cooler.
-
